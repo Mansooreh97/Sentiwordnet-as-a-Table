@@ -1,0 +1,1 @@
+# Sentiwordnet-as-a-Table
